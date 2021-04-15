@@ -17,7 +17,7 @@ sites:
     __dangerous__body_down_if_text_missing: '"FederationOK": true'
   - name: Secret Site
     url: $SECRET_SITE
-  - name: TCP ping
+  - name: ping Matrix
     url: matrix.supersandro.de
 
 assignees:
