@@ -1,34 +1,38 @@
 # Change these first
-owner: upptime # Your GitHub organization or username
+owner: SuperSandro2000 # Your GitHub organization or username
 repo: upptime # Your GitHub repository name
 
 # Add your sites here
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Broken Site
-    url: https://thissitedoesnotexist.com
-  - name: Test for HEAD
-    method: HEAD
-    url: https://www.google.com
+  - name: Website
+    url: https://supersandro.de
+  - name: Mastodon .well-known/host-meta redirection
+    url: https://supersandro.de/.well-known/host-meta
+  - name: Mastodon .well-known/webfinger redirection
+    url: https://supersandro.de/.well-known/webfinger?resource=acct:sandro@mastodon.supersandro.de
+  - name: Matrix redirection
+    url: https://supersandro.de/_matrix/key/v2/server
+  - name: Matrix federation Tester
+    url: https://federationtester.matrix.org/api/report?server_name=supersandro.de
+    __dangerous__body_down_if_text_missing: '"FederationOK": true'
   - name: Secret Site
     url: $SECRET_SITE
   - name: TCP ping
-    url: 1.1.1.1
+    url: matrix.supersandro.de
+
+assignees:
+  - SuperSandro2000
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
-  cname: demo.upptime.js.org
+  cname: upptime.supersandro.de
   # Uncomment the following line if you don't have a custom domain and add your repo name
   # baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  theme: dark
   navbar:
     - title: Status
       href: /
