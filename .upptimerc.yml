@@ -12,7 +12,7 @@ sites:
     url: https://supersandro.de/.well-known/webfinger?resource=acct:sandro@mastodon.supersandro.de
   - name: Matrix redirection
     url: https://supersandro.de/_matrix/key/v2/server
-  - name: Matrix federation Tester
+  - name: Matrix Federation Tester
     url: https://federationtester.matrix.org/api/report?server_name=supersandro.de
     __dangerous__body_down_if_text_missing: '"FederationOK": true'
   - name: Secret site
