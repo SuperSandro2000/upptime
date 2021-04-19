@@ -4,7 +4,7 @@ repo: upptime # Your GitHub repository name
 
 # Add your sites here
 sites:
-  - name: Website
+  - name: My website
     url: https://supersandro.de
   - name: Mastodon .well-known/host-meta redirection
     url: https://supersandro.de/.well-known/host-meta
@@ -17,7 +17,7 @@ sites:
     __dangerous__body_down_if_text_missing: '"FederationOK": true'
   - name: Secret Site
     url: $SECRET_SITE
-  - name: ping Matrix
+  - name: ping matrix.supersandro.de
     url: matrix.supersandro.de
 
 assignees:
