@@ -1,7 +1,7 @@
 url: https://supersandro.de/.well-known/host-meta
-status: up
-code: 200
-responseTime: 583
-lastUpdated: 2021-06-09T02:09:17.276Z
+status: down
+code: 404
+responseTime: 596
+lastUpdated: 2021-06-09T13:51:42.840Z
 startTime: Thu Apr 15 2021 19:19:48 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
