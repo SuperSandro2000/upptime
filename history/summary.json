@@ -22,7 +22,7 @@
     "url": "https://supersandro.de/.well-known/host-meta",
     "icon": "https://favicons.githubusercontent.com/supersandro.de",
     "slug": "mastodon-well-known-host-meta-redirection",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -66,7 +66,7 @@
     "uptimeYear": "100.00%",
     "time": 2070,
     "timeDay": 2532,
-    "timeWeek": 1085,
+    "timeWeek": 1154,
     "timeMonth": 1181,
     "timeYear": 2070,
     "dailyMinutesDown": {}
@@ -84,7 +84,7 @@
     "uptimeYear": "100.00%",
     "time": 4989,
     "timeDay": 6470,
-    "timeWeek": 5948,
+    "timeWeek": 6008,
     "timeMonth": 5672,
     "timeYear": 4989,
     "dailyMinutesDown": {}
@@ -120,7 +120,7 @@
     "uptimeYear": "100.00%",
     "time": 1108,
     "timeDay": 5497,
-    "timeWeek": 1943,
+    "timeWeek": 2048,
     "timeMonth": 1261,
     "timeYear": 1108,
     "dailyMinutesDown": {}
