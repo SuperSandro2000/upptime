@@ -1,7 +1,7 @@
 url: https://federationtester.matrix.org/api/report?server_name=supersandro.de
-status: up
+status: down
 code: 200
-responseTime: 863
-lastUpdated: 2021-07-10T23:06:15.714Z
+responseTime: 27257
+lastUpdated: 2021-07-11T09:47:50.328Z
 startTime: Thu Apr 15 2021 19:19:51 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
