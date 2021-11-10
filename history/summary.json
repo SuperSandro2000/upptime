@@ -84,7 +84,7 @@
     "uptimeYear": "100.00%",
     "time": 4443,
     "timeDay": 1137,
-    "timeWeek": 2350,
+    "timeWeek": 2825,
     "timeMonth": 2748,
     "timeYear": 4443,
     "dailyMinutesDown": {}
@@ -112,17 +112,17 @@
     "url": "matrix.supersandro.de",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "ping-matrix-supersandro-de",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1335,
-    "timeDay": 1423,
-    "timeWeek": 2687,
-    "timeMonth": 1605,
-    "timeYear": 1335,
+    "time": 1334,
+    "timeDay": 1249,
+    "timeWeek": 2828,
+    "timeMonth": 1596,
+    "timeYear": 1334,
     "dailyMinutesDown": {}
   }
 ]
