@@ -22,7 +22,7 @@
     "url": "https://supersandro.de/.well-known/host-meta",
     "icon": "https://favicons.githubusercontent.com/supersandro.de",
     "slug": "mastodon-well-known-host-meta-redirection",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -30,7 +30,7 @@
     "uptimeYear": "100.00%",
     "time": 1208,
     "timeDay": 576,
-    "timeWeek": 3279,
+    "timeWeek": 687,
     "timeMonth": 1818,
     "timeYear": 1208,
     "dailyMinutesDown": {}
@@ -40,7 +40,7 @@
     "url": "https://supersandro.de/.well-known/webfinger?resource=acct:sandro@mastodon.supersandro.de",
     "icon": "https://favicons.githubusercontent.com/supersandro.de",
     "slug": "mastodon-well-known-webfinger-redirection",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -48,7 +48,7 @@
     "uptimeYear": "100.00%",
     "time": 363,
     "timeDay": 211,
-    "timeWeek": 295,
+    "timeWeek": 243,
     "timeMonth": 446,
     "timeYear": 363,
     "dailyMinutesDown": {}
@@ -84,7 +84,7 @@
     "uptimeYear": "100.00%",
     "time": 4438,
     "timeDay": 1038,
-    "timeWeek": 4167,
+    "timeWeek": 2917,
     "timeMonth": 2929,
     "timeYear": 4438,
     "dailyMinutesDown": {}
@@ -120,7 +120,7 @@
     "uptimeYear": "100.00%",
     "time": 1323,
     "timeDay": 856,
-    "timeWeek": 934,
+    "timeWeek": 888,
     "timeMonth": 1449,
     "timeYear": 1323,
     "dailyMinutesDown": {}
