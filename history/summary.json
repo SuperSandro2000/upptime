@@ -30,7 +30,7 @@
     "uptimeYear": "100.00%",
     "time": 1071,
     "timeDay": 615,
-    "timeWeek": 775,
+    "timeWeek": 791,
     "timeMonth": 674,
     "timeYear": 1071,
     "dailyMinutesDown": {}
@@ -48,8 +48,8 @@
     "uptimeYear": "100.00%",
     "time": 332,
     "timeDay": 200,
-    "timeWeek": 232,
-    "timeMonth": 241,
+    "timeWeek": 235,
+    "timeMonth": 239,
     "timeYear": 332,
     "dailyMinutesDown": {}
   },
@@ -66,8 +66,8 @@
     "uptimeYear": "100.00%",
     "time": 1207,
     "timeDay": 191,
-    "timeWeek": 1194,
-    "timeMonth": 1071,
+    "timeWeek": 1258,
+    "timeMonth": 1091,
     "timeYear": 1207,
     "dailyMinutesDown": {}
   },
@@ -76,17 +76,17 @@
     "url": "https://federationtester.matrix.org/api/report?server_name=supersandro.de",
     "icon": "https://favicons.githubusercontent.com/federationtester.matrix.org",
     "slug": "matrix-federation-tester",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 4203,
-    "timeDay": 961,
-    "timeWeek": 4725,
-    "timeMonth": 4112,
-    "timeYear": 4203,
+    "time": 4211,
+    "timeDay": 6069,
+    "timeWeek": 4959,
+    "timeMonth": 4128,
+    "timeYear": 4211,
     "dailyMinutesDown": {}
   },
   {
@@ -121,7 +121,7 @@
     "time": 1259,
     "timeDay": 958,
     "timeWeek": 963,
-    "timeMonth": 1012,
+    "timeMonth": 1006,
     "timeYear": 1259,
     "dailyMinutesDown": {}
   }
