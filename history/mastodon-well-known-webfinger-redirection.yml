@@ -1,7 +1,7 @@
 url: https://supersandro.de/.well-known/webfinger?resource=acct:sandro@mastodon.supersandro.de
 status: up
 code: 200
-responseTime: 341
-lastUpdated: 2022-04-15T15:38:17.406Z
+responseTime: 203
+lastUpdated: 2022-04-15T23:09:28.901Z
 startTime: Thu Apr 15 2021 19:19:49 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
