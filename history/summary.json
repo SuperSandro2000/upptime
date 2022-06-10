@@ -31,8 +31,8 @@
     "time": 1049,
     "timeDay": 555,
     "timeWeek": 661,
-    "timeMonth": 1276,
-    "timeYear": 1101,
+    "timeMonth": 925,
+    "timeYear": 1102,
     "dailyMinutesDown": {}
   },
   {
@@ -49,7 +49,7 @@
     "time": 332,
     "timeDay": 213,
     "timeWeek": 264,
-    "timeMonth": 452,
+    "timeMonth": 357,
     "timeYear": 345,
     "dailyMinutesDown": {}
   },
@@ -58,16 +58,16 @@
     "url": "https://supersandro.de/_matrix/key/v2/server",
     "icon": "https://favicons.githubusercontent.com/supersandro.de",
     "slug": "matrix-redirection",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1264,
-    "timeDay": 219,
+    "timeDay": 221,
     "timeWeek": 1601,
-    "timeMonth": 1485,
+    "timeMonth": 1410,
     "timeYear": 1047,
     "dailyMinutesDown": {}
   },
@@ -83,10 +83,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 4102,
-    "timeDay": 794,
+    "timeDay": 817,
     "timeWeek": 1965,
-    "timeMonth": 2613,
-    "timeYear": 4218,
+    "timeMonth": 2571,
+    "timeYear": 4204,
     "dailyMinutesDown": {}
   },
   {
@@ -119,9 +119,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1299,
-    "timeDay": 1220,
+    "timeDay": 1312,
     "timeWeek": 2020,
-    "timeMonth": 1378,
+    "timeMonth": 1354,
     "timeYear": 1337,
     "dailyMinutesDown": {}
   }
