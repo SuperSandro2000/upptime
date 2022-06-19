@@ -32,7 +32,7 @@
     "timeDay": 596,
     "timeWeek": 665,
     "timeMonth": 931,
-    "timeYear": 1087,
+    "timeYear": 1088,
     "dailyMinutesDown": {}
   },
   {
@@ -46,7 +46,7 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 331,
+    "time": 333,
     "timeDay": 263,
     "timeWeek": 270,
     "timeMonth": 338,
@@ -58,7 +58,7 @@
     "url": "https://supersandro.de/_matrix/key/v2/server",
     "icon": "https://favicons.githubusercontent.com/supersandro.de",
     "slug": "matrix-redirection",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -68,7 +68,7 @@
     "timeDay": 245,
     "timeWeek": 248,
     "timeMonth": 1565,
-    "timeYear": 1059,
+    "timeYear": 1061,
     "dailyMinutesDown": {}
   },
   {
@@ -76,17 +76,17 @@
     "url": "https://federationtester.matrix.org/api/report?server_name=supersandro.de",
     "icon": "https://favicons.githubusercontent.com/federationtester.matrix.org",
     "slug": "matrix-federation-tester",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 4203,
+    "time": 4197,
     "timeDay": 4239,
-    "timeWeek": 2996,
+    "timeWeek": 3117,
     "timeMonth": 3109,
-    "timeYear": 3911,
+    "timeYear": 3905,
     "dailyMinutesDown": {}
   },
   {
@@ -112,7 +112,7 @@
     "url": "matrix.supersandro.de",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "ping-matrix-supersandro-de",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -120,9 +120,9 @@
     "uptimeYear": "100.00%",
     "time": 1349,
     "timeDay": 1285,
-    "timeWeek": 1850,
+    "timeWeek": 1893,
     "timeMonth": 1877,
-    "timeYear": 1400,
+    "timeYear": 1402,
     "dailyMinutesDown": {}
   }
 ]
