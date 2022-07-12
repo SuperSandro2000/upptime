@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 686,
-    "timeDay": 588,
-    "timeWeek": 723,
-    "timeMonth": 714,
+    "timeDay": 563,
+    "timeWeek": 693,
+    "timeMonth": 699,
     "timeYear": 688,
     "dailyMinutesDown": {}
   },
@@ -31,8 +31,8 @@
     "time": 1078,
     "timeDay": 0,
     "timeWeek": 665,
-    "timeMonth": 659,
-    "timeYear": 998,
+    "timeMonth": 656,
+    "timeYear": 999,
     "dailyMinutesDown": {}
   },
   {
@@ -49,7 +49,7 @@
     "time": 334,
     "timeDay": 0,
     "timeWeek": 254,
-    "timeMonth": 267,
+    "timeMonth": 263,
     "timeYear": 332,
     "dailyMinutesDown": {}
   },
@@ -58,7 +58,7 @@
     "url": "https://supersandro.de/_matrix/key/v2/server",
     "icon": "https://favicons.githubusercontent.com/supersandro.de",
     "slug": "matrix-redirection",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -67,8 +67,8 @@
     "time": 1244,
     "timeDay": 208,
     "timeWeek": 936,
-    "timeMonth": 632,
-    "timeYear": 1018,
+    "timeMonth": 640,
+    "timeYear": 1019,
     "dailyMinutesDown": {}
   },
   {
@@ -82,11 +82,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3742,
+    "time": 3744,
     "timeDay": 5772,
     "timeWeek": 4561,
-    "timeMonth": 2586,
-    "timeYear": 3479,
+    "timeMonth": 2616,
+    "timeYear": 3482,
     "dailyMinutesDown": {}
   },
   {
@@ -101,9 +101,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1643,
-    "timeDay": 1427,
-    "timeWeek": 1832,
-    "timeMonth": 1766,
+    "timeDay": 1378,
+    "timeWeek": 1775,
+    "timeMonth": 1736,
     "timeYear": 1622,
     "dailyMinutesDown": {}
   },
@@ -112,17 +112,17 @@
     "url": "matrix.supersandro.de",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "ping-matrix-supersandro-de",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1369,
-    "timeDay": 1110,
+    "time": 1370,
+    "timeDay": 0,
     "timeWeek": 1445,
-    "timeMonth": 1537,
-    "timeYear": 1367,
+    "timeMonth": 1535,
+    "timeYear": 1368,
     "dailyMinutesDown": {}
   }
 ]
