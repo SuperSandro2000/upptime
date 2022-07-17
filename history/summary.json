@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 686,
-    "timeDay": 973,
+    "timeDay": 0,
     "timeWeek": 713,
     "timeMonth": 699,
-    "timeYear": 688,
+    "timeYear": 689,
     "dailyMinutesDown": {}
   },
   {
@@ -31,8 +31,8 @@
     "time": 1077,
     "timeDay": 0,
     "timeWeek": 664,
-    "timeMonth": 641,
-    "timeYear": 1003,
+    "timeMonth": 637,
+    "timeYear": 1005,
     "dailyMinutesDown": {}
   },
   {
@@ -58,7 +58,7 @@
     "url": "https://supersandro.de/_matrix/key/v2/server",
     "icon": "https://favicons.githubusercontent.com/supersandro.de",
     "slug": "matrix-redirection",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -67,8 +67,8 @@
     "time": 1234,
     "timeDay": 209,
     "timeWeek": 496,
-    "timeMonth": 652,
-    "timeYear": 997,
+    "timeMonth": 662,
+    "timeYear": 998,
     "dailyMinutesDown": {}
   },
   {
@@ -76,17 +76,17 @@
     "url": "https://federationtester.matrix.org/api/report?server_name=supersandro.de",
     "icon": "https://favicons.githubusercontent.com/federationtester.matrix.org",
     "slug": "matrix-federation-tester",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 3721,
-    "timeDay": 783,
-    "timeWeek": 3824,
-    "timeMonth": 2544,
-    "timeYear": 3477,
+    "timeDay": 5797,
+    "timeWeek": 4459,
+    "timeMonth": 2610,
+    "timeYear": 3492,
     "dailyMinutesDown": {}
   },
   {
@@ -103,8 +103,8 @@
     "time": 1644,
     "timeDay": 2281,
     "timeWeek": 1756,
-    "timeMonth": 1721,
-    "timeYear": 1621,
+    "timeMonth": 1715,
+    "timeYear": 1622,
     "dailyMinutesDown": {}
   },
   {
@@ -121,8 +121,8 @@
     "time": 1368,
     "timeDay": 1127,
     "timeWeek": 1237,
-    "timeMonth": 1349,
-    "timeYear": 1334,
+    "timeMonth": 1350,
+    "timeYear": 1336,
     "dailyMinutesDown": {}
   }
 ]
