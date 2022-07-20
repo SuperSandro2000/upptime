@@ -14,7 +14,7 @@
     "timeDay": 978,
     "timeWeek": 744,
     "timeMonth": 705,
-    "timeYear": 689,
+    "timeYear": 690,
     "dailyMinutesDown": {}
   },
   {
@@ -32,7 +32,7 @@
     "timeDay": 0,
     "timeWeek": 545,
     "timeMonth": 639,
-    "timeYear": 975,
+    "timeYear": 976,
     "dailyMinutesDown": {}
   },
   {
@@ -49,7 +49,7 @@
     "time": 334,
     "timeDay": 0,
     "timeWeek": 205,
-    "timeMonth": 255,
+    "timeMonth": 248,
     "timeYear": 334,
     "dailyMinutesDown": {}
   },
@@ -58,17 +58,17 @@
     "url": "https://supersandro.de/_matrix/key/v2/server",
     "icon": "https://favicons.githubusercontent.com/supersandro.de",
     "slug": "matrix-redirection",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1048,
-    "timeDay": 220,
-    "timeWeek": 208,
-    "timeMonth": 656,
-    "timeYear": 962,
+    "time": 1017,
+    "timeDay": 313,
+    "timeWeek": 228,
+    "timeMonth": 669,
+    "timeYear": 961,
     "dailyMinutesDown": {}
   },
   {
@@ -76,17 +76,17 @@
     "url": "https://federationtester.matrix.org/api/report?server_name=supersandro.de",
     "icon": "https://favicons.githubusercontent.com/federationtester.matrix.org",
     "slug": "matrix-federation-tester",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3702,
-    "timeDay": 756,
-    "timeWeek": 2806,
-    "timeMonth": 2478,
-    "timeYear": 3470,
+    "time": 3708,
+    "timeDay": 5903,
+    "timeWeek": 3830,
+    "timeMonth": 2730,
+    "timeYear": 3478,
     "dailyMinutesDown": {}
   },
   {
@@ -103,8 +103,8 @@
     "time": 1644,
     "timeDay": 2129,
     "timeWeek": 1765,
-    "timeMonth": 1726,
-    "timeYear": 1622,
+    "timeMonth": 1714,
+    "timeYear": 1623,
     "dailyMinutesDown": {}
   },
   {
@@ -121,8 +121,8 @@
     "time": 1369,
     "timeDay": 1634,
     "timeWeek": 1234,
-    "timeMonth": 1352,
-    "timeYear": 1340,
+    "timeMonth": 1349,
+    "timeYear": 1342,
     "dailyMinutesDown": {}
   }
 ]
