@@ -68,7 +68,7 @@
     "timeDay": 1280,
     "timeWeek": 536,
     "timeMonth": 719,
-    "timeYear": 964,
+    "timeYear": 954,
     "dailyMinutesDown": {}
   },
   {
@@ -76,17 +76,17 @@
     "url": "https://federationtester.matrix.org/api/report?server_name=supersandro.de",
     "icon": "https://favicons.githubusercontent.com/federationtester.matrix.org",
     "slug": "matrix-federation-tester",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3708,
-    "timeDay": 10994,
-    "timeWeek": 3825,
-    "timeMonth": 2901,
-    "timeYear": 3488,
+    "time": 3707,
+    "timeDay": 7598,
+    "timeWeek": 3824,
+    "timeMonth": 2859,
+    "timeYear": 3477,
     "dailyMinutesDown": {}
   },
   {
