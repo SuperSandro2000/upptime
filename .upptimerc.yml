@@ -6,10 +6,6 @@ repo: upptime # Your GitHub repository name
 sites:
   - name: My website
     url: https://supersandro.de
-  - name: Mastodon .well-known/host-meta redirection
-    url: https://supersandro.de/.well-known/host-meta
-  - name: Mastodon .well-known/webfinger redirection
-    url: https://supersandro.de/.well-known/webfinger?resource=acct:sandro@mastodon.supersandro.de
   - name: Matrix redirection
     url: https://supersandro.de/_matrix/key/v2/server
   - name: Matrix Federation Tester
