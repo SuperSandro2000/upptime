@@ -1,7 +1,7 @@
 url: https://supersandro.de/_matrix/key/v2/server
-status: down
-code: 504
-responseTime: 20164
-lastUpdated: 2023-03-19T09:50:52.429Z
+status: up
+code: 200
+responseTime: 214
+lastUpdated: 2023-03-19T09:57:23.155Z
 startTime: Thu Apr 15 2021 19:19:50 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
