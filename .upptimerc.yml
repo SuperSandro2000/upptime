@@ -11,8 +11,6 @@ sites:
   - name: Matrix Federation Tester
     url: https://federationtester.matrix.org/api/report?server_name=supersandro.de
     __dangerous__body_down_if_text_missing: '"FederationOK": true'
-  - name: Secret site
-    url: $SECRET_SITE
   - name: Ping matrix.supersandro.de
     url: matrix.supersandro.de
 
