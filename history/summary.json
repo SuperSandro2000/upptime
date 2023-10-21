@@ -39,7 +39,7 @@
     "status": "up",
     "uptime": "98.40%",
     "uptimeDay": "95.73%",
-    "uptimeWeek": "98.66%",
+    "uptimeWeek": "98.79%",
     "uptimeMonth": "93.48%",
     "uptimeYear": "95.97%",
     "time": 2196,
@@ -112,9 +112,9 @@
     "slug": "matrix-federation-tester",
     "status": "up",
     "uptime": "97.93%",
-    "uptimeDay": "82.13%",
-    "uptimeWeek": "93.41%",
-    "uptimeMonth": "91.53%",
+    "uptimeDay": "82.57%",
+    "uptimeWeek": "93.61%",
+    "uptimeMonth": "91.55%",
     "uptimeYear": "94.78%",
     "time": 4127,
     "timeDay": 5417,
@@ -122,7 +122,7 @@
     "timeMonth": 3916,
     "timeYear": 4284,
     "dailyMinutesDown": {
-      "2023-10-21": 257,
+      "2023-10-21": 251,
       "2023-10-20": 249,
       "2023-10-14": 317,
       "2023-10-13": 28,
@@ -212,7 +212,8 @@
       "2023-07-07": 691,
       "2023-07-01": 225,
       "2023-06-30": 235,
-      "2023-06-29": 732
+      "2023-06-29": 732,
+      "2023-06-26": 17
     }
   },
   {
@@ -220,10 +221,10 @@
     "url": "matrix.supersandro.de",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ping-matrix-supersandro-de",
-    "status": "up",
+    "status": "down",
     "uptime": "99.09%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.43%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "98.56%",
     "uptimeMonth": "99.26%",
     "uptimeYear": "97.72%",
     "time": 1361,
@@ -232,6 +233,7 @@
     "timeMonth": 1543,
     "timeYear": 1368,
     "dailyMinutesDown": {
+      "2023-10-21": 0,
       "2023-10-14": 284,
       "2023-09-26": 39,
       "2023-09-05": 102,
