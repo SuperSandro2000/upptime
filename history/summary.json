@@ -122,18 +122,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/federationtester.matrix.org.ico",
     "slug": "matrix-federation-tester",
     "status": "up",
-    "uptime": "98.15%",
-    "uptimeDay": "84.95%",
-    "uptimeWeek": "85.59%",
-    "uptimeMonth": "93.17%",
-    "uptimeYear": "95.05%",
+    "uptime": "98.11%",
+    "uptimeDay": "85.87%",
+    "uptimeWeek": "85.72%",
+    "uptimeMonth": "93.20%",
+    "uptimeYear": "94.93%",
     "time": 4023,
     "timeDay": 3798,
     "timeWeek": 3229,
     "timeMonth": 2645,
     "timeYear": 4055,
     "dailyMinutesDown": {
-      "2023-12-20": 216,
+      "2023-12-20": 203,
       "2023-12-19": 290,
       "2023-12-18": 218,
       "2023-12-17": 226,
@@ -217,7 +217,7 @@
       "2023-08-21": 332,
       "2023-08-20": 314,
       "2023-08-19": 1132,
-      "2023-08-18": 444
+      "2023-08-18": 1059
     }
   },
   {
