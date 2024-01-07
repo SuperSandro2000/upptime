@@ -41,9 +41,9 @@
     "slug": "matrix-redirection",
     "status": "up",
     "uptime": "98.35%",
-    "uptimeDay": "99.67%",
-    "uptimeWeek": "83.72%",
-    "uptimeMonth": "95.59%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "83.76%",
+    "uptimeMonth": "95.60%",
     "uptimeYear": "95.50%",
     "time": 2117,
     "timeDay": 199,
@@ -51,7 +51,6 @@
     "timeMonth": 1841,
     "timeYear": 2226,
     "dailyMinutesDown": {
-      "2024-01-06": 5,
       "2024-01-03": 99,
       "2024-01-02": 1363,
       "2024-01-01": 175,
@@ -128,16 +127,17 @@
     "status": "down",
     "uptime": "97.83%",
     "uptimeDay": "16.20%",
-    "uptimeWeek": "25.81%",
-    "uptimeMonth": "75.00%",
-    "uptimeYear": "94.08%",
+    "uptimeWeek": "25.50%",
+    "uptimeMonth": "74.93%",
+    "uptimeYear": "94.07%",
     "time": 4109,
     "timeDay": 6533,
     "timeWeek": 11751,
     "timeMonth": 3826,
     "timeYear": 4135,
     "dailyMinutesDown": {
-      "2024-01-06": 1192,
+      "2024-01-07": 16,
+      "2024-01-06": 1207,
       "2024-01-05": 1440,
       "2024-01-04": 1440,
       "2024-01-03": 1440,
@@ -298,8 +298,7 @@
       "2023-01-22": 21,
       "2023-01-18": 16,
       "2023-01-15": 17,
-      "2023-01-12": 49,
-      "2023-01-07": 16
+      "2023-01-12": 49
     }
   }
 ]
