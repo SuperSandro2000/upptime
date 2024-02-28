@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.42%",
     "time": 790,
-    "timeDay": 949,
-    "timeWeek": 803,
-    "timeMonth": 791,
+    "timeDay": 1205,
+    "timeWeek": 830,
+    "timeMonth": 800,
     "timeYear": 804,
     "dailyMinutesDown": {
       "2023-11-10": 9,
@@ -45,9 +45,9 @@
     "uptimeMonth": "96.19%",
     "uptimeYear": "95.19%",
     "time": 1919,
-    "timeDay": 212,
-    "timeWeek": 195,
-    "timeMonth": 488,
+    "timeDay": 255,
+    "timeWeek": 201,
+    "timeMonth": 489,
     "timeYear": 2171,
     "dailyMinutesDown": {
       "2024-02-12": 946,
@@ -117,8 +117,7 @@
       "2023-03-09": 29,
       "2023-03-07": 25,
       "2023-03-04": 21,
-      "2023-03-01": 29,
-      "2023-02-28": 23
+      "2023-03-01": 29
     }
   },
   {
@@ -128,17 +127,16 @@
     "slug": "matrix-federation-tester",
     "status": "up",
     "uptime": "96.92%",
-    "uptimeDay": "99.15%",
-    "uptimeWeek": "98.33%",
-    "uptimeMonth": "74.27%",
-    "uptimeYear": "91.17%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "74.30%",
+    "uptimeYear": "91.14%",
     "time": 3998,
-    "timeDay": 3362,
-    "timeWeek": 4299,
-    "timeMonth": 3445,
+    "timeDay": 3409,
+    "timeWeek": 4301,
+    "timeMonth": 3446,
     "timeYear": 4106,
     "dailyMinutesDown": {
-      "2024-02-27": 12,
       "2024-02-26": 17,
       "2024-02-20": 261,
       "2024-02-19": 223,
@@ -243,7 +241,8 @@
       "2023-10-05": 232,
       "2023-09-26": 92,
       "2023-09-25": 20,
-      "2023-09-23": 20
+      "2023-09-23": 20,
+      "2023-09-22": 157
     }
   },
   {
@@ -257,11 +256,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "96.24%",
     "uptimeYear": "97.34%",
-    "time": 1416,
-    "timeDay": 1609,
-    "timeWeek": 1416,
-    "timeMonth": 1392,
-    "timeYear": 1429,
+    "time": 1417,
+    "timeDay": 1936,
+    "timeWeek": 1439,
+    "timeMonth": 1403,
+    "timeYear": 1430,
     "dailyMinutesDown": {
       "2024-02-12": 946,
       "2024-02-11": 2,
@@ -307,8 +306,7 @@
       "2023-03-12": 594,
       "2023-03-11": 693,
       "2023-03-09": 29,
-      "2023-03-01": 28,
-      "2023-02-28": 22
+      "2023-03-01": 28
     }
   }
 ]
