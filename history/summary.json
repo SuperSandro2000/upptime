@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.42%",
-    "time": 792,
-    "timeDay": 770,
-    "timeWeek": 923,
-    "timeMonth": 828,
-    "timeYear": 807,
+    "time": 793,
+    "timeDay": 956,
+    "timeWeek": 922,
+    "timeMonth": 837,
+    "timeYear": 808,
     "dailyMinutesDown": {
       "2023-11-10": 9,
       "2023-11-09": 60,
@@ -45,10 +45,10 @@
     "uptimeMonth": "96.19%",
     "uptimeYear": "95.20%",
     "time": 2062,
-    "timeDay": 183,
-    "timeWeek": 214,
-    "timeMonth": 202,
-    "timeYear": 2122,
+    "timeDay": 205,
+    "timeWeek": 211,
+    "timeMonth": 203,
+    "timeYear": 2121,
     "dailyMinutesDown": {
       "2024-02-12": 946,
       "2024-02-11": 2,
@@ -114,8 +114,7 @@
       "2023-03-18": 20,
       "2023-03-12": 593,
       "2023-03-11": 695,
-      "2023-03-09": 29,
-      "2023-03-07": 25
+      "2023-03-09": 29
     }
   },
   {
@@ -125,17 +124,16 @@
     "slug": "matrix-federation-tester",
     "status": "up",
     "uptime": "96.94%",
-    "uptimeDay": "99.59%",
-    "uptimeWeek": "99.59%",
-    "uptimeMonth": "84.95%",
-    "uptimeYear": "91.17%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.64%",
+    "uptimeMonth": "85.18%",
+    "uptimeYear": "91.16%",
     "time": 4009,
-    "timeDay": 4629,
-    "timeWeek": 4159,
-    "timeMonth": 3786,
+    "timeDay": 4639,
+    "timeWeek": 4162,
+    "timeMonth": 3799,
     "timeYear": 4108,
     "dailyMinutesDown": {
-      "2024-03-05": 6,
       "2024-02-29": 36,
       "2024-02-26": 17,
       "2024-02-20": 261,
@@ -240,7 +238,8 @@
       "2023-10-06": 1440,
       "2023-10-05": 232,
       "2023-09-26": 92,
-      "2023-09-25": 20
+      "2023-09-25": 20,
+      "2023-09-23": 20
     }
   },
   {
@@ -254,10 +253,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "96.24%",
     "uptimeYear": "97.35%",
-    "time": 1419,
-    "timeDay": 1370,
+    "time": 1420,
+    "timeDay": 1593,
     "timeWeek": 1535,
-    "timeMonth": 1422,
+    "timeMonth": 1432,
     "timeYear": 1432,
     "dailyMinutesDown": {
       "2024-02-12": 946,
