@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.42%",
-    "time": 793,
-    "timeDay": 1097,
-    "timeWeek": 907,
-    "timeMonth": 834,
-    "timeYear": 808,
+    "time": 794,
+    "timeDay": 967,
+    "timeWeek": 914,
+    "timeMonth": 838,
+    "timeYear": 803,
     "dailyMinutesDown": {
       "2023-11-10": 9,
       "2023-11-09": 60,
@@ -29,8 +29,7 @@
       "2023-05-09": 22,
       "2023-05-05": 122,
       "2023-03-10": 908,
-      "2023-03-09": 1440,
-      "2023-03-08": 182
+      "2023-03-09": 1440
     }
   },
   {
@@ -45,8 +44,8 @@
     "uptimeMonth": "96.19%",
     "uptimeYear": "95.20%",
     "time": 2062,
-    "timeDay": 230,
-    "timeWeek": 209,
+    "timeDay": 225,
+    "timeWeek": 211,
     "timeMonth": 203,
     "timeYear": 2121,
     "dailyMinutesDown": {
@@ -124,17 +123,16 @@
     "slug": "matrix-federation-tester",
     "status": "up",
     "uptime": "96.95%",
-    "uptimeDay": "99.60%",
-    "uptimeWeek": "99.59%",
-    "uptimeMonth": "85.16%",
-    "uptimeYear": "91.17%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.64%",
+    "uptimeMonth": "85.35%",
+    "uptimeYear": "91.16%",
     "time": 4004,
-    "timeDay": 3524,
-    "timeWeek": 4079,
-    "timeMonth": 3828,
+    "timeDay": 3533,
+    "timeWeek": 4084,
+    "timeMonth": 3840,
     "timeYear": 4111,
     "dailyMinutesDown": {
-      "2024-03-06": 6,
       "2024-02-29": 36,
       "2024-02-26": 17,
       "2024-02-20": 261,
@@ -239,7 +237,8 @@
       "2023-10-06": 1440,
       "2023-10-05": 232,
       "2023-09-26": 92,
-      "2023-09-25": 20
+      "2023-09-25": 20,
+      "2023-09-23": 20
     }
   },
   {
@@ -253,11 +252,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "96.24%",
     "uptimeYear": "97.35%",
-    "time": 1420,
-    "timeDay": 1747,
-    "timeWeek": 1504,
-    "timeMonth": 1424,
-    "timeYear": 1433,
+    "time": 1421,
+    "timeDay": 1636,
+    "timeWeek": 1518,
+    "timeMonth": 1434,
+    "timeYear": 1432,
     "dailyMinutesDown": {
       "2024-02-12": 946,
       "2024-02-11": 2,
