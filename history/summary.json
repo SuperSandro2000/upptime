@@ -9,12 +9,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.42%",
+    "uptimeYear": "98.45%",
     "time": 794,
-    "timeDay": 760,
-    "timeWeek": 893,
-    "timeMonth": 829,
-    "timeYear": 803,
+    "timeDay": 747,
+    "timeWeek": 866,
+    "timeMonth": 825,
+    "timeYear": 804,
     "dailyMinutesDown": {
       "2023-11-10": 9,
       "2023-11-09": 60,
@@ -27,8 +27,7 @@
       "2023-09-01": 1440,
       "2023-08-31": 39,
       "2023-05-09": 22,
-      "2023-05-05": 122,
-      "2023-03-10": 908
+      "2023-05-05": 122
     }
   },
   {
@@ -43,9 +42,9 @@
     "uptimeMonth": "96.19%",
     "uptimeYear": "95.20%",
     "time": 2064,
-    "timeDay": 214,
-    "timeWeek": 210,
-    "timeMonth": 202,
+    "timeDay": 215,
+    "timeWeek": 207,
+    "timeMonth": 201,
     "timeYear": 2104,
     "dailyMinutesDown": {
       "2024-02-12": 946,
@@ -121,17 +120,16 @@
     "slug": "matrix-federation-tester",
     "status": "up",
     "uptime": "96.95%",
-    "uptimeDay": "99.60%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "87.28%",
-    "uptimeYear": "91.17%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "87.40%",
+    "uptimeYear": "91.16%",
     "time": 4012,
-    "timeDay": 4682,
-    "timeWeek": 4340,
-    "timeMonth": 4015,
-    "timeYear": 4119,
+    "timeDay": 4663,
+    "timeWeek": 4335,
+    "timeMonth": 4032,
+    "timeYear": 4096,
     "dailyMinutesDown": {
-      "2024-03-08": 6,
       "2024-02-29": 36,
       "2024-02-26": 17,
       "2024-02-20": 261,
@@ -236,7 +234,8 @@
       "2023-10-06": 1440,
       "2023-10-05": 232,
       "2023-09-26": 92,
-      "2023-09-25": 20
+      "2023-09-25": 20,
+      "2023-09-23": 20
     }
   },
   {
@@ -251,10 +250,10 @@
     "uptimeMonth": "96.24%",
     "uptimeYear": "97.35%",
     "time": 1422,
-    "timeDay": 1322,
-    "timeWeek": 1485,
-    "timeMonth": 1412,
-    "timeYear": 1431,
+    "timeDay": 1319,
+    "timeWeek": 1458,
+    "timeMonth": 1402,
+    "timeYear": 1432,
     "dailyMinutesDown": {
       "2024-02-12": 946,
       "2024-02-11": 2,
