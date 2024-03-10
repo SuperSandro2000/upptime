@@ -9,12 +9,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.59%",
+    "uptimeYear": "98.73%",
     "time": 794,
-    "timeDay": 871,
-    "timeWeek": 883,
-    "timeMonth": 828,
-    "timeYear": 804,
+    "timeDay": 885,
+    "timeWeek": 875,
+    "timeMonth": 822,
+    "timeYear": 805,
     "dailyMinutesDown": {
       "2023-11-10": 9,
       "2023-11-09": 60,
@@ -36,16 +36,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/supersandro.de.ico",
     "slug": "matrix-redirection",
     "status": "up",
-    "uptime": "98.33%",
+    "uptime": "98.34%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "96.19%",
+    "uptimeMonth": "97.66%",
     "uptimeYear": "95.21%",
     "time": 2064,
-    "timeDay": 216,
-    "timeWeek": 209,
+    "timeDay": 196,
+    "timeWeek": 207,
     "timeMonth": 201,
-    "timeYear": 2087,
+    "timeYear": 2089,
     "dailyMinutesDown": {
       "2024-02-12": 946,
       "2024-02-11": 2,
@@ -109,8 +109,7 @@
       "2023-03-25": 20,
       "2023-03-22": 21,
       "2023-03-18": 20,
-      "2023-03-12": 593,
-      "2023-03-11": 695
+      "2023-03-12": 593
     }
   },
   {
@@ -122,13 +121,13 @@
     "uptime": "96.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "87.40%",
+    "uptimeMonth": "88.87%",
     "uptimeYear": "91.16%",
-    "time": 4013,
-    "timeDay": 4739,
-    "timeWeek": 4349,
-    "timeMonth": 4036,
-    "timeYear": 4084,
+    "time": 4012,
+    "timeDay": 1112,
+    "timeWeek": 4187,
+    "timeMonth": 3808,
+    "timeYear": 4071,
     "dailyMinutesDown": {
       "2024-02-29": 36,
       "2024-02-26": 17,
@@ -247,11 +246,11 @@
     "uptime": "98.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "96.24%",
+    "uptimeMonth": "97.71%",
     "uptimeYear": "97.35%",
-    "time": 1422,
-    "timeDay": 1380,
-    "timeWeek": 1459,
+    "time": 1423,
+    "timeDay": 1475,
+    "timeWeek": 1462,
     "timeMonth": 1403,
     "timeYear": 1432,
     "dailyMinutesDown": {
@@ -296,8 +295,7 @@
       "2023-06-05": 31,
       "2023-05-11": 25,
       "2023-04-09": 617,
-      "2023-03-12": 594,
-      "2023-03-11": 693
+      "2023-03-12": 594
     }
   }
 ]
