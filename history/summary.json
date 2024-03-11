@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.90%",
     "time": 794,
-    "timeDay": 709,
-    "timeWeek": 875,
-    "timeMonth": 823,
+    "timeDay": 762,
+    "timeWeek": 855,
+    "timeMonth": 825,
     "timeYear": 805,
     "dailyMinutesDown": {
       "2023-11-10": 9,
@@ -42,8 +42,8 @@
     "uptimeMonth": "97.84%",
     "uptimeYear": "95.21%",
     "time": 2064,
-    "timeDay": 175,
-    "timeWeek": 207,
+    "timeDay": 183,
+    "timeWeek": 204,
     "timeMonth": 201,
     "timeYear": 2092,
     "dailyMinutesDown": {
@@ -108,8 +108,7 @@
       "2023-03-28": 24,
       "2023-03-25": 20,
       "2023-03-22": 21,
-      "2023-03-18": 20,
-      "2023-03-12": 593
+      "2023-03-18": 20
     }
   },
   {
@@ -119,17 +118,16 @@
     "slug": "matrix-federation-tester",
     "status": "up",
     "uptime": "96.96%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "89.03%",
-    "uptimeYear": "91.17%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "89.04%",
+    "uptimeYear": "91.16%",
     "time": 4027,
-    "timeDay": 3763,
-    "timeWeek": 4199,
+    "timeDay": 3770,
+    "timeWeek": 4194,
     "timeMonth": 3860,
     "timeYear": 4063,
     "dailyMinutesDown": {
-      "2024-03-10": 6,
       "2024-02-29": 36,
       "2024-02-26": 17,
       "2024-02-20": 261,
@@ -234,7 +232,8 @@
       "2023-10-06": 1440,
       "2023-10-05": 232,
       "2023-09-26": 92,
-      "2023-09-25": 20
+      "2023-09-25": 20,
+      "2023-09-23": 20
     }
   },
   {
@@ -248,10 +247,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.84%",
     "uptimeYear": "97.35%",
-    "time": 1423,
-    "timeDay": 1255,
-    "timeWeek": 1460,
-    "timeMonth": 1400,
+    "time": 1422,
+    "timeDay": 1233,
+    "timeWeek": 1428,
+    "timeMonth": 1401,
     "timeYear": 1432,
     "dailyMinutesDown": {
       "2024-02-12": 946,
@@ -294,8 +293,7 @@
       "2023-06-08": 32,
       "2023-06-05": 31,
       "2023-05-11": 25,
-      "2023-04-09": 617,
-      "2023-03-12": 594
+      "2023-04-09": 617
     }
   }
 ]
