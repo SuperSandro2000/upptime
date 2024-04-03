@@ -114,17 +114,17 @@
     "url": "https://federationtester.matrix.org/api/report?server_name=supersandro.de",
     "icon": "https://icons.duckduckgo.com/ip3/federationtester.matrix.org.ico",
     "slug": "matrix-federation-tester",
-    "status": "up",
-    "uptime": "97.19%",
-    "uptimeDay": "96.22%",
+    "status": "down",
+    "uptime": "97.21%",
+    "uptimeDay": "96.20%",
     "uptimeWeek": "99.30%",
     "uptimeMonth": "98.47%",
-    "uptimeYear": "91.66%",
-    "time": 4150,
-    "timeDay": 4931,
-    "timeWeek": 4744,
-    "timeMonth": 4441,
-    "timeYear": 3971,
+    "uptimeYear": "91.71%",
+    "time": 4155,
+    "timeDay": 5360,
+    "timeWeek": 4833,
+    "timeMonth": 4469,
+    "timeYear": 3975,
     "dailyMinutesDown": {
       "2024-04-03": 54,
       "2024-03-31": 16,
@@ -226,7 +226,7 @@
       "2023-10-24": 313,
       "2023-10-23": 410,
       "2023-10-22": 1440,
-      "2023-10-21": 390
+      "2023-10-21": 139
     }
   },
   {
