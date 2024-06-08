@@ -11,9 +11,9 @@
     "uptimeMonth": "99.65%",
     "uptimeYear": "98.89%",
     "time": 800,
-    "timeDay": 877,
-    "timeWeek": 721,
-    "timeMonth": 726,
+    "timeDay": 821,
+    "timeWeek": 730,
+    "timeMonth": 721,
     "timeYear": 811,
     "dailyMinutesDown": {
       "2024-05-19": 153,
@@ -42,8 +42,8 @@
     "uptimeMonth": "98.72%",
     "uptimeYear": "96.17%",
     "time": 1507,
-    "timeDay": 219,
-    "timeWeek": 334,
+    "timeDay": 210,
+    "timeWeek": 335,
     "timeMonth": 235,
     "timeYear": 1322,
     "dailyMinutesDown": {
@@ -108,8 +108,7 @@
       "2023-07-22": 112,
       "2023-07-07": 684,
       "2023-06-29": 501,
-      "2023-06-24": 35,
-      "2023-06-09": 33
+      "2023-06-24": 35
     }
   },
   {
@@ -117,18 +116,19 @@
     "url": "https://federationtester.matrix.org/api/report?server_name=supersandro.de",
     "icon": "https://icons.duckduckgo.com/ip3/federationtester.matrix.org.ico",
     "slug": "matrix-federation-tester",
-    "status": "up",
-    "uptime": "99.10%",
-    "uptimeDay": "89.28%",
+    "status": "down",
+    "uptime": "99.11%",
+    "uptimeDay": "91.56%",
     "uptimeWeek": "84.85%",
-    "uptimeMonth": "86.48%",
-    "uptimeYear": "97.17%",
-    "time": 3962,
-    "timeDay": 1506,
-    "timeWeek": 3954,
-    "timeMonth": 3844,
+    "uptimeMonth": "86.47%",
+    "uptimeYear": "97.19%",
+    "time": 3953,
+    "timeDay": 2001,
+    "timeWeek": 3934,
+    "timeMonth": 3841,
     "timeYear": 3893,
     "dailyMinutesDown": {
+      "2024-06-08": 0,
       "2024-06-07": 121,
       "2024-06-06": 267,
       "2024-06-05": 156,
@@ -194,8 +194,7 @@
       "2024-04-03": 77,
       "2024-03-31": 16,
       "2024-03-24": 19,
-      "2024-03-23": 137,
-      "2024-03-21": 143
+      "2024-03-23": 137
     }
   },
   {
@@ -209,10 +208,10 @@
     "uptimeWeek": "96.43%",
     "uptimeMonth": "99.18%",
     "uptimeYear": "96.94%",
-    "time": 1511,
-    "timeDay": 1935,
-    "timeWeek": 1943,
-    "timeMonth": 1918,
+    "time": 1512,
+    "timeDay": 1861,
+    "timeWeek": 1955,
+    "timeMonth": 1909,
     "timeYear": 1539,
     "dailyMinutesDown": {
       "2024-06-01": 359,
