@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/supersandro.de.ico",
     "slug": "my-website",
     "status": "up",
-    "uptime": "99.50%",
+    "uptime": "99.51%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.89%",
     "time": 799,
-    "timeDay": 1025,
-    "timeWeek": 728,
-    "timeMonth": 724,
+    "timeDay": 889,
+    "timeWeek": 736,
+    "timeMonth": 719,
     "timeYear": 817,
     "dailyMinutesDown": {
       "2024-05-19": 153,
@@ -42,10 +42,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "96.69%",
     "time": 1208,
-    "timeDay": 225,
-    "timeWeek": 310,
-    "timeMonth": 587,
-    "timeYear": 961,
+    "timeDay": 206,
+    "timeWeek": 311,
+    "timeMonth": 592,
+    "timeYear": 962,
     "dailyMinutesDown": {
       "2024-06-18": 319,
       "2024-06-17": 41,
@@ -102,8 +102,7 @@
       "2023-08-26": 63,
       "2023-08-22": 167,
       "2023-08-19": 1126,
-      "2023-08-18": 965,
-      "2023-08-10": 452
+      "2023-08-18": 965
     }
   },
   {
@@ -113,15 +112,15 @@
     "slug": "matrix-federation-tester",
     "status": "up",
     "uptime": "99.18%",
-    "uptimeDay": "94.09%",
-    "uptimeWeek": "48.13%",
-    "uptimeMonth": "78.80%",
+    "uptimeDay": "98.69%",
+    "uptimeWeek": "55.38%",
+    "uptimeMonth": "78.98%",
     "uptimeYear": "97.27%",
     "time": 4050,
-    "timeDay": 5157,
-    "timeWeek": 4238,
-    "timeMonth": 4792,
-    "timeYear": 4069,
+    "timeDay": 5177,
+    "timeWeek": 4232,
+    "timeMonth": 4787,
+    "timeYear": 4071,
     "dailyMinutesDown": {
       "2024-08-08": 19,
       "2024-08-07": 66,
@@ -195,11 +194,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.44%",
-    "time": 1586,
-    "timeDay": 2615,
-    "timeWeek": 1920,
-    "timeMonth": 1911,
-    "timeYear": 1641,
+    "time": 1587,
+    "timeDay": 2167,
+    "timeWeek": 1940,
+    "timeMonth": 1901,
+    "timeYear": 1642,
     "dailyMinutesDown": {
       "2024-06-18": 319,
       "2024-06-17": 40,
@@ -244,8 +243,7 @@
       "2023-08-22": 166,
       "2023-08-19": 1127,
       "2023-08-18": 963,
-      "2023-08-16": 22,
-      "2023-08-10": 452
+      "2023-08-16": 22
     }
   }
 ]
