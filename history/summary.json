@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.89%",
     "time": 796,
-    "timeDay": 550,
-    "timeWeek": 641,
-    "timeMonth": 706,
-    "timeYear": 814,
+    "timeDay": 517,
+    "timeWeek": 629,
+    "timeMonth": 705,
+    "timeYear": 813,
     "dailyMinutesDown": {
       "2024-05-19": 153,
       "2024-04-08": 20,
@@ -42,7 +42,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.20%",
     "time": 1084,
-    "timeDay": 178,
+    "timeDay": 188,
     "timeWeek": 190,
     "timeMonth": 612,
     "timeYear": 898,
@@ -98,8 +98,7 @@
       "2023-09-01": 1440,
       "2023-08-31": 58,
       "2023-08-28": 21,
-      "2023-08-27": 875,
-      "2023-08-26": 63
+      "2023-08-27": 875
     }
   },
   {
@@ -109,17 +108,16 @@
     "slug": "matrix-federation-tester",
     "status": "up",
     "uptime": "99.39%",
-    "uptimeDay": "94.92%",
-    "uptimeWeek": "96.72%",
-    "uptimeMonth": "79.31%",
-    "uptimeYear": "97.94%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "96.81%",
+    "uptimeMonth": "79.50%",
+    "uptimeYear": "97.93%",
     "time": 4068,
-    "timeDay": 4278,
-    "timeWeek": 4563,
-    "timeMonth": 4378,
+    "timeDay": 1376,
+    "timeWeek": 4632,
+    "timeMonth": 4307,
     "timeYear": 4074,
     "dailyMinutesDown": {
-      "2024-08-24": 9,
       "2024-08-23": 68,
       "2024-08-22": 40,
       "2024-08-20": 76,
@@ -175,7 +173,8 @@
       "2024-06-27": 19,
       "2024-06-26": 19,
       "2024-06-25": 61,
-      "2024-06-24": 55
+      "2024-06-24": 55,
+      "2024-06-23": 38
     }
   },
   {
@@ -189,11 +188,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "97.95%",
-    "time": 1607,
-    "timeDay": 1612,
-    "timeWeek": 1779,
-    "timeMonth": 1935,
-    "timeYear": 1665,
+    "time": 1611,
+    "timeDay": 3580,
+    "timeWeek": 2046,
+    "timeMonth": 1994,
+    "timeYear": 1669,
     "dailyMinutesDown": {
       "2024-08-10": 56,
       "2024-06-18": 319,
@@ -234,8 +233,7 @@
       "2023-09-05": 102,
       "2023-09-04": 141,
       "2023-08-31": 73,
-      "2023-08-27": 873,
-      "2023-08-26": 63
+      "2023-08-27": 873
     }
   }
 ]
