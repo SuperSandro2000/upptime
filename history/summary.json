@@ -9,11 +9,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.35%",
+    "uptimeYear": "99.43%",
     "time": 802,
-    "timeDay": 892,
-    "timeWeek": 757,
-    "timeMonth": 771,
+    "timeDay": 778,
+    "timeWeek": 751,
+    "timeMonth": 770,
     "timeYear": 820,
     "dailyMinutesDown": {
       "2024-05-19": 153,
@@ -35,13 +35,13 @@
     "status": "up",
     "uptime": "98.37%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.82%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "97.84%",
+    "uptimeYear": "97.93%",
     "time": 1008,
-    "timeDay": 247,
-    "timeWeek": 210,
-    "timeMonth": 226,
+    "timeDay": 217,
+    "timeWeek": 211,
+    "timeMonth": 201,
     "timeYear": 878,
     "dailyMinutesDown": {
       "2024-08-26": 18,
@@ -90,8 +90,7 @@
       "2023-09-16": 19,
       "2023-09-09": 19,
       "2023-09-06": 24,
-      "2023-09-05": 103,
-      "2023-09-04": 142
+      "2023-09-05": 103
     }
   },
   {
@@ -101,17 +100,16 @@
     "slug": "matrix-federation-tester",
     "status": "up",
     "uptime": "99.39%",
-    "uptimeDay": "99.37%",
-    "uptimeWeek": "98.17%",
-    "uptimeMonth": "89.50%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.70%",
+    "uptimeMonth": "90.76%",
     "uptimeYear": "97.94%",
-    "time": 4073,
-    "timeDay": 1592,
-    "timeWeek": 3801,
-    "timeMonth": 4196,
-    "timeYear": 4046,
+    "time": 4069,
+    "timeDay": 1534,
+    "timeWeek": 2945,
+    "timeMonth": 4183,
+    "timeYear": 4048,
     "dailyMinutesDown": {
-      "2024-09-02": 9,
       "2024-08-30": 70,
       "2024-08-28": 60,
       "2024-08-26": 44,
@@ -166,7 +164,8 @@
       "2024-07-02": 52,
       "2024-07-01": 68,
       "2024-06-30": 91,
-      "2024-06-29": 70
+      "2024-06-29": 70,
+      "2024-06-28": 20
     }
   },
   {
@@ -181,9 +180,9 @@
     "uptimeMonth": "99.87%",
     "uptimeYear": "98.14%",
     "time": 1660,
-    "timeDay": 2522,
-    "timeWeek": 2085,
-    "timeMonth": 2139,
+    "timeDay": 2221,
+    "timeWeek": 2103,
+    "timeMonth": 2147,
     "timeYear": 1692,
     "dailyMinutesDown": {
       "2024-08-10": 56,
@@ -222,8 +221,7 @@
       "2023-10-30": 161,
       "2023-10-14": 284,
       "2023-09-26": 39,
-      "2023-09-05": 102,
-      "2023-09-04": 141
+      "2023-09-05": 102
     }
   }
 ]
