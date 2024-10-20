@@ -1,7 +1,7 @@
 url: matrix.supersandro.de
-status: up
-code: 200
-responseTime: 2652
-lastUpdated: 2024-10-20T23:02:05.536Z
+status: down
+code: 502
+responseTime: 948
+lastUpdated: 2024-10-20T23:17:55.263Z
 startTime: 2021-04-19T00:34:47.000Z
 generator: Upptime <https://github.com/upptime/upptime>
