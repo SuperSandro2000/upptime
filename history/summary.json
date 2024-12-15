@@ -11,9 +11,9 @@
     "uptimeMonth": "98.28%",
     "uptimeYear": "99.82%",
     "time": 826,
-    "timeDay": 773,
-    "timeWeek": 976,
-    "timeMonth": 911,
+    "timeDay": 822,
+    "timeWeek": 953,
+    "timeMonth": 907,
     "timeYear": 817,
     "dailyMinutesDown": {
       "2024-12-14": 162,
@@ -30,14 +30,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/supersandro.de.ico",
     "slug": "matrix-redirection",
     "status": "up",
-    "uptime": "98.49%",
+    "uptime": "98.50%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "98.59%",
     "time": 613,
-    "timeDay": 196,
-    "timeWeek": 207,
+    "timeDay": 200,
+    "timeWeek": 203,
     "timeMonth": 207,
     "timeYear": 576,
     "dailyMinutesDown": {
@@ -93,9 +93,9 @@
     "uptimeMonth": "97.08%",
     "uptimeYear": "96.81%",
     "time": 4023,
-    "timeDay": 874,
-    "timeWeek": 2566,
-    "timeMonth": 2886,
+    "timeDay": 866,
+    "timeWeek": 2567,
+    "timeMonth": 2885,
     "timeYear": 4115,
     "dailyMinutesDown": {
       "2024-12-13": 109,
@@ -187,10 +187,10 @@
     "uptimeMonth": "99.79%",
     "uptimeYear": "98.30%",
     "time": 1757,
-    "timeDay": 1659,
-    "timeWeek": 1879,
-    "timeMonth": 1919,
-    "timeYear": 1785,
+    "timeDay": 1958,
+    "timeWeek": 1908,
+    "timeMonth": 1915,
+    "timeYear": 1786,
     "dailyMinutesDown": {
       "2024-11-28": 43,
       "2024-11-15": 50,
@@ -223,8 +223,7 @@
       "2024-01-02": 1354,
       "2024-01-01": 174,
       "2023-12-18": 17,
-      "2023-12-17": 22,
-      "2023-12-16": 139
+      "2023-12-17": 22
     }
   }
 ]
