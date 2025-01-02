@@ -11,9 +11,9 @@
     "uptimeMonth": "96.18%",
     "uptimeYear": "99.60%",
     "time": 824,
-    "timeDay": 688,
-    "timeWeek": 858,
-    "timeMonth": 906,
+    "timeDay": 699,
+    "timeWeek": 864,
+    "timeMonth": 908,
     "timeYear": 817,
     "dailyMinutesDown": {
       "2024-12-31": 293,
@@ -36,16 +36,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/supersandro.de.ico",
     "slug": "matrix-redirection",
     "status": "up",
-    "uptime": "98.51%",
+    "uptime": "98.52%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.65%",
+    "uptimeYear": "98.69%",
     "time": 603,
-    "timeDay": 208,
-    "timeWeek": 240,
+    "timeDay": 185,
+    "timeWeek": 234,
     "timeMonth": 216,
-    "timeYear": 413,
+    "timeYear": 411,
     "dailyMinutesDown": {
       "2024-11-28": 43,
       "2024-11-06": 32,
@@ -79,8 +79,7 @@
       "2024-02-10": 91,
       "2024-02-09": 631,
       "2024-01-24": 52,
-      "2024-01-23": 2,
-      "2024-01-03": 99
+      "2024-01-23": 2
     }
   },
   {
@@ -95,10 +94,10 @@
     "uptimeMonth": "97.38%",
     "uptimeYear": "96.75%",
     "time": 4011,
-    "timeDay": 3371,
-    "timeWeek": 3235,
-    "timeMonth": 2707,
-    "timeYear": 4154,
+    "timeDay": 3369,
+    "timeWeek": 3234,
+    "timeMonth": 2706,
+    "timeYear": 4138,
     "dailyMinutesDown": {
       "2025-01-01": 101,
       "2024-12-31": 91,
@@ -190,12 +189,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.38%",
-    "time": 1763,
-    "timeDay": 1606,
-    "timeWeek": 1911,
-    "timeMonth": 1936,
-    "timeYear": 1807,
+    "uptimeYear": "98.42%",
+    "time": 1764,
+    "timeDay": 1796,
+    "timeWeek": 1941,
+    "timeMonth": 1943,
+    "timeYear": 1809,
     "dailyMinutesDown": {
       "2024-11-28": 43,
       "2024-11-15": 50,
@@ -223,8 +222,7 @@
       "2024-02-10": 71,
       "2024-02-09": 629,
       "2024-01-24": 27,
-      "2024-01-04": 19,
-      "2024-01-03": 100
+      "2024-01-04": 19
     }
   }
 ]
