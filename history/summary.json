@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.05%",
     "time": 837,
-    "timeDay": 761,
+    "timeDay": 840,
     "timeWeek": 894,
-    "timeMonth": 867,
+    "timeMonth": 864,
     "timeYear": 843,
     "dailyMinutesDown": {
       "2025-01-31": 300,
@@ -45,15 +45,15 @@
     "slug": "matrix-redirection",
     "status": "up",
     "uptime": "99.00%",
-    "uptimeDay": "9.75%",
+    "uptimeDay": "60.66%",
     "uptimeWeek": "53.57%",
     "uptimeMonth": "88.58%",
     "uptimeYear": "98.41%",
-    "time": 344,
-    "timeDay": 1167,
-    "timeWeek": 679,
-    "timeMonth": 293,
-    "timeYear": 317,
+    "time": 345,
+    "timeDay": 222,
+    "timeWeek": 677,
+    "timeMonth": 292,
+    "timeYear": 318,
     "dailyMinutesDown": {
       "2025-05-05": 588,
       "2025-05-04": 1440,
@@ -95,8 +95,7 @@
       "2024-06-07": 15,
       "2024-06-01": 373,
       "2024-05-24": 18,
-      "2024-05-19": 153,
-      "2024-05-06": 161
+      "2024-05-19": 153
     }
   },
   {
@@ -106,15 +105,15 @@
     "slug": "matrix-federation-tester",
     "status": "up",
     "uptime": "99.23%",
-    "uptimeDay": "9.75%",
+    "uptimeDay": "60.67%",
     "uptimeWeek": "51.53%",
     "uptimeMonth": "70.83%",
     "uptimeYear": "96.88%",
     "time": 4272,
-    "timeDay": 3885,
-    "timeWeek": 6396,
-    "timeMonth": 5077,
-    "timeYear": 4225,
+    "timeDay": 809,
+    "timeWeek": 6398,
+    "timeMonth": 5078,
+    "timeYear": 4224,
     "dailyMinutesDown": {
       "2025-05-05": 588,
       "2025-05-04": 1440,
@@ -181,15 +180,15 @@
     "slug": "ping-matrix-supersandro-de",
     "status": "up",
     "uptime": "99.11%",
-    "uptimeDay": "9.76%",
+    "uptimeDay": "60.67%",
     "uptimeWeek": "53.62%",
     "uptimeMonth": "88.81%",
     "uptimeYear": "98.48%",
-    "time": 1925,
-    "timeDay": 2176,
-    "timeWeek": 2145,
-    "timeMonth": 1990,
-    "timeYear": 1967,
+    "time": 1927,
+    "timeDay": 2728,
+    "timeWeek": 2291,
+    "timeMonth": 2009,
+    "timeYear": 1969,
     "dailyMinutesDown": {
       "2025-05-05": 588,
       "2025-05-04": 1440,
@@ -222,8 +221,7 @@
       "2024-06-17": 40,
       "2024-06-16": 491,
       "2024-06-08": 50,
-      "2024-06-01": 359,
-      "2024-05-06": 161
+      "2024-06-01": 359
     }
   }
 ]
