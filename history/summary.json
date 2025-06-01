@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.08%",
-    "time": 834,
-    "timeDay": 974,
-    "timeWeek": 885,
-    "timeMonth": 871,
-    "timeYear": 852,
+    "time": 835,
+    "timeDay": 1092,
+    "timeWeek": 896,
+    "timeMonth": 881,
+    "timeYear": 853,
     "dailyMinutesDown": {
       "2025-01-31": 300,
       "2025-01-30": 244,
@@ -49,9 +49,9 @@
     "uptimeMonth": "89.13%",
     "uptimeYear": "98.45%",
     "time": 307,
-    "timeDay": 229,
-    "timeWeek": 210,
-    "timeMonth": 308,
+    "timeDay": 232,
+    "timeWeek": 214,
+    "timeMonth": 309,
     "timeYear": 318,
     "dailyMinutesDown": {
       "2025-05-25": 17,
@@ -94,8 +94,7 @@
       "2024-06-17": 41,
       "2024-06-16": 501,
       "2024-06-08": 50,
-      "2024-06-07": 15,
-      "2024-06-01": 373
+      "2024-06-07": 15
     }
   },
   {
@@ -104,14 +103,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/federationtester.matrix.org.ico",
     "slug": "matrix-federation-tester",
     "status": "up",
-    "uptime": "99.25%",
-    "uptimeDay": "95.24%",
-    "uptimeWeek": "96.97%",
+    "uptime": "99.26%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "97.36%",
     "uptimeMonth": "86.54%",
     "uptimeYear": "96.92%",
     "time": 4181,
-    "timeDay": 4290,
-    "timeWeek": 3694,
+    "timeDay": 969,
+    "timeWeek": 3307,
     "timeMonth": 4042,
     "timeYear": 4210,
     "dailyMinutesDown": {
@@ -184,11 +183,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "89.23%",
     "uptimeYear": "98.50%",
-    "time": 1968,
-    "timeDay": 2347,
-    "timeWeek": 2071,
-    "timeMonth": 2025,
-    "timeYear": 1976,
+    "time": 1969,
+    "timeDay": 2288,
+    "timeWeek": 2065,
+    "timeMonth": 2043,
+    "timeYear": 1977,
     "dailyMinutesDown": {
       "2025-05-09": 71,
       "2025-05-05": 588,
@@ -221,8 +220,7 @@
       "2024-06-18": 319,
       "2024-06-17": 40,
       "2024-06-16": 491,
-      "2024-06-08": 50,
-      "2024-06-01": 359
+      "2024-06-08": 50
     }
   }
 ]
