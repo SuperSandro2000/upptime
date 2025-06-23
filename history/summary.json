@@ -109,17 +109,16 @@
     "slug": "matrix-federation-tester",
     "status": "up",
     "uptime": "99.29%",
-    "uptimeDay": "82.68%",
-    "uptimeWeek": "96.10%",
-    "uptimeMonth": "94.19%",
+    "uptimeDay": "85.56%",
+    "uptimeWeek": "96.18%",
+    "uptimeMonth": "94.21%",
     "uptimeYear": "97.04%",
     "time": 4306,
-    "timeDay": 3716,
+    "timeDay": 3478,
     "timeWeek": 3938,
-    "timeMonth": 5158,
+    "timeMonth": 5164,
     "timeYear": 4338,
     "dailyMinutesDown": {
-      "2025-06-23": 9,
       "2025-06-22": 292,
       "2025-06-20": 30,
       "2025-06-18": 19,
@@ -168,7 +167,7 @@
       "2025-04-16": 40,
       "2025-04-15": 31,
       "2025-04-14": 106,
-      "2025-04-12": 205
+      "2025-04-12": 234
     }
   },
   {
