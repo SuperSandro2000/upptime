@@ -4,9 +4,9 @@
     "url": "https://supersandro.de",
     "icon": "https://icons.duckduckgo.com/ip3/supersandro.de.ico",
     "slug": "my-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.41%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.04%",
@@ -16,6 +16,7 @@
     "timeMonth": 845,
     "timeYear": 872,
     "dailyMinutesDown": {
+      "2025-12-16": 0,
       "2025-10-14": 17,
       "2025-06-21": 286,
       "2025-06-19": 537,
@@ -123,7 +124,7 @@
     "timeDay": 2528,
     "timeWeek": 2129,
     "timeMonth": 2254,
-    "timeYear": 4069,
+    "timeYear": 4070,
     "dailyMinutesDown": {
       "2025-12-16": 80,
       "2025-12-15": 15,
