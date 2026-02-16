@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "96.37%",
-    "time": 871,
-    "timeDay": 964,
-    "timeWeek": 834,
-    "timeMonth": 870,
-    "timeYear": 868,
+    "time": 870,
+    "timeDay": 845,
+    "timeWeek": 837,
+    "timeMonth": 865,
+    "timeYear": 867,
     "dailyMinutesDown": {
       "2026-01-20": 17,
       "2025-12-28": 1059,
@@ -48,7 +48,7 @@
     "uptimeMonth": "94.90%",
     "uptimeYear": "97.49%",
     "time": 279,
-    "timeDay": 214,
+    "timeDay": 198,
     "timeWeek": 1776,
     "timeMonth": 586,
     "timeYear": 290,
@@ -114,8 +114,7 @@
       "2025-03-04": 17,
       "2025-03-03": 48,
       "2025-02-28": 20,
-      "2025-02-18": 29,
-      "2025-02-16": 16
+      "2025-02-18": 29
     }
   },
   {
@@ -125,17 +124,16 @@
     "slug": "matrix-federation-tester",
     "status": "up",
     "uptime": "99.75%",
-    "uptimeDay": "99.07%",
-    "uptimeWeek": "94.92%",
-    "uptimeMonth": "94.37%",
-    "uptimeYear": "98.79%",
-    "time": 3925,
-    "timeDay": 3458,
-    "timeWeek": 1719,
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "95.05%",
+    "uptimeMonth": "94.40%",
+    "uptimeYear": "98.78%",
+    "time": 3921,
+    "timeDay": 4119,
+    "timeWeek": 1721,
     "timeMonth": 2527,
     "timeYear": 3921,
     "dailyMinutesDown": {
-      "2026-02-15": 13,
       "2026-02-13": 453,
       "2026-02-11": 23,
       "2026-02-09": 22,
@@ -205,7 +203,8 @@
       "2025-09-21": 84,
       "2025-09-20": 57,
       "2025-09-18": 19,
-      "2025-09-17": 92
+      "2025-09-17": 92,
+      "2025-09-16": 58
     }
   },
   {
@@ -219,11 +218,11 @@
     "uptimeWeek": "95.51%",
     "uptimeMonth": "94.87%",
     "uptimeYear": "97.66%",
-    "time": 2009,
-    "timeDay": 2053,
-    "timeWeek": 2024,
+    "time": 2008,
+    "timeDay": 1895,
+    "timeWeek": 2041,
     "timeMonth": 2028,
-    "timeYear": 2011,
+    "timeYear": 2010,
     "dailyMinutesDown": {
       "2026-02-13": 453,
       "2026-02-01": 31,
@@ -286,8 +285,7 @@
       "2025-03-11": 84,
       "2025-03-08": 17,
       "2025-03-03": 48,
-      "2025-02-28": 19,
-      "2025-02-16": 15
+      "2025-02-28": 19
     }
   }
 ]
