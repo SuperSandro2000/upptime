@@ -10,9 +10,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "96.36%",
-    "time": 866,
-    "timeDay": 710,
-    "timeWeek": 809,
+    "time": 867,
+    "timeDay": 896,
+    "timeWeek": 837,
     "timeMonth": 846,
     "timeYear": 863,
     "dailyMinutesDown": {
@@ -45,13 +45,13 @@
     "slug": "matrix-redirection",
     "status": "up",
     "uptime": "99.43%",
-    "uptimeDay": "93.35%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.05%",
     "uptimeMonth": "99.78%",
-    "uptimeYear": "97.59%",
+    "uptimeYear": "97.60%",
     "time": 282,
-    "timeDay": 263,
-    "timeWeek": 220,
+    "timeDay": 216,
+    "timeWeek": 223,
     "timeMonth": 214,
     "timeYear": 286,
     "dailyMinutesDown": {
@@ -112,8 +112,7 @@
       "2025-04-10": 31,
       "2025-04-08": 120,
       "2025-04-04": 37,
-      "2025-04-03": 79,
-      "2025-04-02": 266
+      "2025-04-03": 79
     }
   },
   {
@@ -123,15 +122,15 @@
     "slug": "matrix-federation-tester",
     "status": "up",
     "uptime": "99.74%",
-    "uptimeDay": "91.27%",
+    "uptimeDay": "98.28%",
     "uptimeWeek": "98.06%",
     "uptimeMonth": "99.08%",
     "uptimeYear": "98.73%",
     "time": 3738,
-    "timeDay": 2413,
+    "timeDay": 1534,
     "timeWeek": 1675,
-    "timeMonth": 1907,
-    "timeYear": 3714,
+    "timeMonth": 1906,
+    "timeYear": 3699,
     "dailyMinutesDown": {
       "2026-04-01": 25,
       "2026-03-31": 123,
@@ -223,15 +222,15 @@
     "slug": "ping-matrix-supersandro-de",
     "status": "up",
     "uptime": "99.51%",
-    "uptimeDay": "93.38%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.05%",
     "uptimeMonth": "99.78%",
     "uptimeYear": "97.78%",
-    "time": 2007,
-    "timeDay": 1756,
-    "timeWeek": 1888,
-    "timeMonth": 1970,
-    "timeYear": 2015,
+    "time": 2008,
+    "timeDay": 2158,
+    "timeWeek": 1946,
+    "timeMonth": 1978,
+    "timeYear": 2016,
     "dailyMinutesDown": {
       "2026-03-31": 95,
       "2026-02-27": 275,
@@ -290,8 +289,7 @@
       "2025-04-10": 31,
       "2025-04-08": 57,
       "2025-04-04": 35,
-      "2025-04-03": 1,
-      "2025-04-02": 255
+      "2025-04-03": 1
     }
   }
 ]
