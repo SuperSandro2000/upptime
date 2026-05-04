@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "96.36%",
     "time": 866,
-    "timeDay": 878,
-    "timeWeek": 820,
-    "timeMonth": 849,
+    "timeDay": 810,
+    "timeWeek": 798,
+    "timeMonth": 847,
     "timeYear": 862,
     "dailyMinutesDown": {
       "2026-03-01": 51,
@@ -46,14 +46,14 @@
     "status": "up",
     "uptime": "99.38%",
     "uptimeDay": "97.14%",
-    "uptimeWeek": "93.81%",
+    "uptimeWeek": "96.04%",
     "uptimeMonth": "94.33%",
-    "uptimeYear": "97.73%",
+    "uptimeYear": "97.77%",
     "time": 318,
-    "timeDay": 206,
-    "timeWeek": 824,
+    "timeDay": 202,
+    "timeWeek": 795,
     "timeMonth": 659,
-    "timeYear": 323,
+    "timeYear": 322,
     "dailyMinutesDown": {
       "2026-05-03": 42,
       "2026-05-01": 40,
@@ -109,8 +109,7 @@
       "2025-05-25": 17,
       "2025-05-09": 71,
       "2025-05-06": 22,
-      "2025-05-05": 588,
-      "2025-05-04": 1440
+      "2025-05-05": 588
     }
   },
   {
@@ -121,14 +120,14 @@
     "status": "up",
     "uptime": "99.67%",
     "uptimeDay": "95.70%",
-    "uptimeWeek": "90.44%",
+    "uptimeWeek": "92.67%",
     "uptimeMonth": "92.98%",
     "uptimeYear": "98.34%",
     "time": 3561,
-    "timeDay": 1183,
-    "timeWeek": 2451,
-    "timeMonth": 2497,
-    "timeYear": 3413,
+    "timeDay": 1166,
+    "timeWeek": 1829,
+    "timeMonth": 2496,
+    "timeYear": 3402,
     "dailyMinutesDown": {
       "2026-05-03": 63,
       "2026-05-02": 21,
@@ -227,14 +226,14 @@
     "status": "up",
     "uptime": "99.47%",
     "uptimeDay": "98.57%",
-    "uptimeWeek": "94.03%",
+    "uptimeWeek": "96.26%",
     "uptimeMonth": "94.45%",
-    "uptimeYear": "97.88%",
-    "time": 2008,
-    "timeDay": 1755,
-    "timeWeek": 1886,
-    "timeMonth": 1988,
-    "timeYear": 2015,
+    "uptimeYear": "97.93%",
+    "time": 2007,
+    "timeDay": 1568,
+    "timeWeek": 1866,
+    "timeMonth": 1979,
+    "timeYear": 2014,
     "dailyMinutesDown": {
       "2026-05-03": 21,
       "2026-05-01": 39,
@@ -291,8 +290,7 @@
       "2025-06-07": 179,
       "2025-06-06": 165,
       "2025-05-09": 71,
-      "2025-05-05": 588,
-      "2025-05-04": 1440
+      "2025-05-05": 588
     }
   }
 ]
