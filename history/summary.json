@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "96.55%",
     "time": 859,
-    "timeDay": 996,
-    "timeWeek": 871,
-    "timeMonth": 829,
+    "timeDay": 805,
+    "timeWeek": 858,
+    "timeMonth": 826,
     "timeYear": 855,
     "dailyMinutesDown": {
       "2025-10-14": 17,
@@ -48,7 +48,7 @@
     "uptimeYear": "98.24%",
     "time": 333,
     "timeDay": 447,
-    "timeWeek": 458,
+    "timeWeek": 461,
     "timeMonth": 446,
     "timeYear": 349,
     "dailyMinutesDown": {
@@ -109,16 +109,17 @@
     "slug": "matrix-federation-tester",
     "status": "up",
     "uptime": "99.66%",
-    "uptimeDay": "99.52%",
-    "uptimeWeek": "99.73%",
-    "uptimeMonth": "99.57%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.59%",
     "uptimeYear": "98.23%",
     "time": 3240,
     "timeDay": 1642,
-    "timeWeek": 1206,
+    "timeWeek": 1224,
     "timeMonth": 1274,
     "timeYear": 2973,
     "dailyMinutesDown": {
+      "2025-11-15": 24,
       "2025-11-18": 106,
       "2025-11-22": 661,
       "2025-11-25": 17,
@@ -208,8 +209,7 @@
       "2026-06-02": 21,
       "2026-06-06": 26,
       "2026-06-08": 31,
-      "2026-06-21": 20,
-      "2026-06-22": 7
+      "2026-06-21": 20
     }
   },
   {
@@ -225,7 +225,7 @@
     "uptimeYear": "98.35%",
     "time": 2027,
     "timeDay": 1965,
-    "timeWeek": 1984,
+    "timeWeek": 1966,
     "timeMonth": 2240,
     "timeYear": 2029,
     "dailyMinutesDown": {
