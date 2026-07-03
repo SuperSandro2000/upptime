@@ -40,16 +40,16 @@
     "url": "https://supersandro.de/_matrix/key/v2/server",
     "icon": "https://icons.duckduckgo.com/ip3/supersandro.de.ico",
     "slug": "matrix-redirection",
-    "status": "down",
-    "uptime": "99.39%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "98.24%",
+    "status": "up",
+    "uptime": "99.38%",
+    "uptimeDay": "94.21%",
+    "uptimeWeek": "99.17%",
+    "uptimeMonth": "99.81%",
+    "uptimeYear": "98.22%",
     "time": 340,
-    "timeDay": 1328,
-    "timeWeek": 605,
-    "timeMonth": 480,
+    "timeDay": 1090,
+    "timeWeek": 590,
+    "timeMonth": 479,
     "timeYear": 358,
     "dailyMinutesDown": {
       "2025-07-04": 43,
@@ -100,7 +100,7 @@
       "2026-05-07": 21,
       "2026-05-09": 69,
       "2026-05-23": 46,
-      "2026-07-03": 1
+      "2026-07-03": 83
     }
   },
   {
@@ -108,17 +108,17 @@
     "url": "https://federationtester.matrix.org/api/report?server_name=supersandro.de",
     "icon": "https://icons.duckduckgo.com/ip3/federationtester.matrix.org.ico",
     "slug": "matrix-federation-tester",
-    "status": "down",
-    "uptime": "99.69%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "99.18%",
-    "uptimeMonth": "99.51%",
-    "uptimeYear": "98.36%",
+    "status": "up",
+    "uptime": "99.68%",
+    "uptimeDay": "94.26%",
+    "uptimeWeek": "98.37%",
+    "uptimeMonth": "99.32%",
+    "uptimeYear": "98.34%",
     "time": 2968,
-    "timeDay": 3645,
-    "timeWeek": 1914,
-    "timeMonth": 1522,
-    "timeYear": 2853,
+    "timeDay": 2897,
+    "timeWeek": 1860,
+    "timeMonth": 1511,
+    "timeYear": 2852,
     "dailyMinutesDown": {
       "2025-12-01": 18,
       "2025-12-02": 19,
@@ -211,7 +211,7 @@
       "2026-06-26": 28,
       "2026-06-28": 24,
       "2026-07-01": 30,
-      "2026-07-03": 0
+      "2026-07-03": 83
     }
   },
   {
@@ -219,16 +219,16 @@
     "url": "matrix.supersandro.de",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ping-matrix-supersandro-de",
-    "status": "down",
-    "uptime": "99.47%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "98.35%",
-    "time": 2023,
-    "timeDay": 1763,
-    "timeWeek": 1767,
-    "timeMonth": 1844,
+    "status": "up",
+    "uptime": "99.46%",
+    "uptimeDay": "94.27%",
+    "uptimeWeek": "99.18%",
+    "uptimeMonth": "99.81%",
+    "uptimeYear": "98.34%",
+    "time": 2022,
+    "timeDay": 1678,
+    "timeWeek": 1750,
+    "timeMonth": 1838,
     "timeYear": 2020,
     "dailyMinutesDown": {
       "2025-07-04": 42,
@@ -283,7 +283,7 @@
       "2026-05-07": 20,
       "2026-05-09": 69,
       "2026-05-23": 45,
-      "2026-07-03": 0
+      "2026-07-03": 83
     }
   }
 ]
