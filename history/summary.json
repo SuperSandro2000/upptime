@@ -12,7 +12,7 @@
     "uptimeYear": "96.55%",
     "time": 855,
     "timeDay": 947,
-    "timeWeek": 830,
+    "timeWeek": 835,
     "timeMonth": 812,
     "timeYear": 848,
     "dailyMinutesDown": {
@@ -48,8 +48,8 @@
     "uptimeYear": "98.18%",
     "time": 352,
     "timeDay": 1817,
-    "timeWeek": 732,
-    "timeMonth": 563,
+    "timeWeek": 749,
+    "timeMonth": 565,
     "timeYear": 372,
     "dailyMinutesDown": {
       "2025-07-18": 24,
@@ -108,17 +108,17 @@
     "url": "https://federationtester.matrix.org/api/report?server_name=supersandro.de",
     "icon": "https://icons.duckduckgo.com/ip3/federationtester.matrix.org.ico",
     "slug": "matrix-federation-tester",
-    "status": "down",
+    "status": "up",
     "uptime": "99.68%",
-    "uptimeDay": "90.93%",
-    "uptimeWeek": "96.04%",
-    "uptimeMonth": "98.47%",
+    "uptimeDay": "90.76%",
+    "uptimeWeek": "96.01%",
+    "uptimeMonth": "98.43%",
     "uptimeYear": "98.32%",
-    "time": 2919,
-    "timeDay": 2876,
-    "timeWeek": 1650,
+    "time": 2913,
+    "timeDay": 2910,
+    "timeWeek": 1590,
     "timeMonth": 1470,
-    "timeYear": 2784,
+    "timeYear": 2783,
     "dailyMinutesDown": {
       "2025-12-25": 23,
       "2025-12-26": 23,
@@ -209,7 +209,7 @@
       "2026-07-11": 225,
       "2026-07-12": 17,
       "2026-07-14": 16,
-      "2026-07-15": 116
+      "2026-07-15": 133
     }
   },
   {
@@ -225,8 +225,8 @@
     "uptimeYear": "98.33%",
     "time": 2016,
     "timeDay": 2069,
-    "timeWeek": 1777,
-    "timeMonth": 1824,
+    "timeWeek": 1788,
+    "timeMonth": 1818,
     "timeYear": 2010,
     "dailyMinutesDown": {
       "2025-07-18": 24,
