@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "96.55%",
     "time": 854,
-    "timeDay": 983,
-    "timeWeek": 793,
-    "timeMonth": 792,
+    "timeDay": 956,
+    "timeWeek": 800,
+    "timeMonth": 793,
     "timeYear": 848,
     "dailyMinutesDown": {
       "2025-10-14": 17,
@@ -42,13 +42,13 @@
     "slug": "matrix-redirection",
     "status": "down",
     "uptime": "99.41%",
-    "uptimeDay": "95.93%",
-    "uptimeWeek": "97.78%",
-    "uptimeMonth": "98.87%",
-    "uptimeYear": "98.16%",
-    "time": 362,
-    "timeDay": 1229,
-    "timeWeek": 1118,
+    "uptimeDay": "84.99%",
+    "uptimeWeek": "95.70%",
+    "uptimeMonth": "98.39%",
+    "uptimeYear": "98.12%",
+    "time": 363,
+    "timeDay": 502,
+    "timeWeek": 1155,
     "timeMonth": 662,
     "timeYear": 385,
     "dailyMinutesDown": {
@@ -102,7 +102,7 @@
       "2026-07-15": 117,
       "2026-07-16": 48,
       "2026-07-21": 52,
-      "2026-07-22": 6
+      "2026-07-22": 216
     }
   },
   {
@@ -111,16 +111,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/federationtester.matrix.org.ico",
     "slug": "matrix-federation-tester",
     "status": "down",
-    "uptime": "99.68%",
-    "uptimeDay": "93.10%",
-    "uptimeWeek": "96.41%",
-    "uptimeMonth": "97.95%",
-    "uptimeYear": "98.30%",
-    "time": 2892,
-    "timeDay": 4843,
-    "timeWeek": 2815,
-    "timeMonth": 1808,
-    "timeYear": 2772,
+    "uptime": "99.67%",
+    "uptimeDay": "82.11%",
+    "uptimeWeek": "94.33%",
+    "uptimeMonth": "97.48%",
+    "uptimeYear": "98.26%",
+    "time": 2903,
+    "timeDay": 8492,
+    "timeWeek": 3562,
+    "timeMonth": 1998,
+    "timeYear": 2785,
     "dailyMinutesDown": {
       "2026-01-08": 23,
       "2026-01-11": 35,
@@ -210,7 +210,7 @@
       "2026-07-18": 18,
       "2026-07-19": 25,
       "2026-07-21": 95,
-      "2026-07-22": 5
+      "2026-07-22": 215
     }
   },
   {
@@ -219,16 +219,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ping-matrix-supersandro-de",
     "status": "down",
-    "uptime": "99.46%",
-    "uptimeDay": "96.72%",
-    "uptimeWeek": "97.98%",
-    "uptimeMonth": "98.92%",
-    "uptimeYear": "98.31%",
+    "uptime": "99.45%",
+    "uptimeDay": "85.40%",
+    "uptimeWeek": "95.90%",
+    "uptimeMonth": "98.44%",
+    "uptimeYear": "98.27%",
     "time": 2013,
-    "timeDay": 2230,
-    "timeWeek": 1816,
+    "timeDay": 2156,
+    "timeWeek": 1825,
     "timeMonth": 1779,
-    "timeYear": 2007,
+    "timeYear": 2008,
     "dailyMinutesDown": {
       "2025-08-06": 46,
       "2025-08-21": 97,
@@ -283,7 +283,7 @@
       "2026-07-15": 111,
       "2026-07-16": 45,
       "2026-07-21": 47,
-      "2026-07-22": 0
+      "2026-07-22": 210
     }
   }
 ]
