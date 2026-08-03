@@ -40,16 +40,16 @@
     "url": "https://supersandro.de/_matrix/key/v2/server",
     "icon": "https://icons.duckduckgo.com/ip3/supersandro.de.ico",
     "slug": "matrix-redirection",
-    "status": "down",
+    "status": "up",
     "uptime": "99.40%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.75%",
-    "uptimeMonth": "97.85%",
+    "uptimeDay": "98.25%",
+    "uptimeWeek": "99.50%",
+    "uptimeMonth": "97.79%",
     "uptimeYear": "98.06%",
-    "time": 367,
-    "timeDay": 468,
-    "timeWeek": 425,
-    "timeMonth": 621,
+    "time": 368,
+    "timeDay": 482,
+    "timeWeek": 430,
+    "timeMonth": 620,
     "timeYear": 392,
     "dailyMinutesDown": {
       "2025-08-15": 36,
@@ -104,7 +104,7 @@
       "2026-07-21": 52,
       "2026-07-22": 513,
       "2026-07-30": 25,
-      "2026-08-03": 1
+      "2026-08-03": 25
     }
   },
   {
@@ -112,17 +112,17 @@
     "url": "https://federationtester.matrix.org/api/report?server_name=supersandro.de",
     "icon": "https://icons.duckduckgo.com/ip3/federationtester.matrix.org.ico",
     "slug": "matrix-federation-tester",
-    "status": "down",
+    "status": "up",
     "uptime": "99.71%",
-    "uptimeDay": "98.06%",
-    "uptimeWeek": "98.88%",
-    "uptimeMonth": "96.94%",
+    "uptimeDay": "96.36%",
+    "uptimeWeek": "98.63%",
+    "uptimeMonth": "96.88%",
     "uptimeYear": "98.44%",
-    "time": 2823,
-    "timeDay": 4266,
-    "timeWeek": 1624,
-    "timeMonth": 1953,
-    "timeYear": 2708,
+    "time": 2824,
+    "timeDay": 3522,
+    "timeWeek": 1608,
+    "timeMonth": 1946,
+    "timeYear": 2707,
     "dailyMinutesDown": {
       "2026-01-24": 184,
       "2026-01-27": 296,
@@ -210,7 +210,7 @@
       "2026-07-26": 25,
       "2026-07-28": 31,
       "2026-07-30": 55,
-      "2026-08-03": 28
+      "2026-08-03": 52
     }
   },
   {
@@ -218,16 +218,16 @@
     "url": "matrix.supersandro.de",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ping-matrix-supersandro-de",
-    "status": "down",
+    "status": "up",
     "uptime": "99.45%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "99.75%",
-    "uptimeMonth": "97.90%",
+    "uptimeDay": "98.28%",
+    "uptimeWeek": "99.51%",
+    "uptimeMonth": "97.84%",
     "uptimeYear": "98.21%",
     "time": 2014,
-    "timeDay": 1920,
-    "timeWeek": 1702,
-    "timeMonth": 1922,
+    "timeDay": 2063,
+    "timeWeek": 1742,
+    "timeMonth": 1929,
     "timeYear": 2010,
     "dailyMinutesDown": {
       "2025-08-06": 46,
@@ -285,7 +285,7 @@
       "2026-07-21": 47,
       "2026-07-22": 507,
       "2026-07-30": 24,
-      "2026-08-03": 0
+      "2026-08-03": 25
     }
   }
 ]
