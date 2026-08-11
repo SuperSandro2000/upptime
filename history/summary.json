@@ -42,10 +42,10 @@
     "slug": "matrix-redirection",
     "status": "down",
     "uptime": "99.40%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "98.90%",
-    "uptimeMonth": "97.54%",
-    "uptimeYear": "98.04%",
+    "uptimeDay": "99.44%",
+    "uptimeWeek": "98.82%",
+    "uptimeMonth": "97.52%",
+    "uptimeYear": "98.03%",
     "time": 374,
     "timeDay": 508,
     "timeWeek": 614,
@@ -107,7 +107,7 @@
       "2026-08-03": 25,
       "2026-08-04": 54,
       "2026-08-06": 57,
-      "2026-08-11": 0
+      "2026-08-11": 8
     }
   },
   {
