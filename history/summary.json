@@ -219,17 +219,17 @@
     "url": "matrix.supersandro.de",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ping-matrix-supersandro-de",
-    "status": "up",
+    "status": "down",
     "uptime": "99.45%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.85%",
     "uptimeYear": "98.24%",
-    "time": 2001,
-    "timeDay": 2044,
-    "timeWeek": 1853,
-    "timeMonth": 1835,
-    "timeYear": 1997,
+    "time": 1999,
+    "timeDay": 1539,
+    "timeWeek": 1765,
+    "timeMonth": 1816,
+    "timeYear": 1995,
     "dailyMinutesDown": {
       "2025-09-19": 54,
       "2025-09-26": 89,
@@ -285,7 +285,8 @@
       "2026-08-03": 25,
       "2026-08-04": 53,
       "2026-08-06": 51,
-      "2026-08-15": 64
+      "2026-08-15": 64,
+      "2026-09-10": 1
     }
   }
 ]
